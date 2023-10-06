@@ -7,12 +7,17 @@
  * 
  * 
  */
-
+/*
  let futureYear = 2050;
  let birthYear;
 
  let message;
 
  console.log(message);
- 
+ */
+ let futureYear = 2050;
+ let birthYear = 1979;
 
+ let message = futureYear - birthYear;
+
+ console.log("En el año " + " " + futureYear + " " + "yo voy a tener " + " " + message + " " + "años");
